@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/umeMusfera/textAnalyzer.git/static/css/main.f855e6bc.css",
-    "main.js": "/umeMusfera/textAnalyzer.git/static/js/main.0e915f6c.js",
-    "static/js/453.ad6eb26e.chunk.js": "/umeMusfera/textAnalyzer.git/static/js/453.ad6eb26e.chunk.js",
-    "index.html": "/umeMusfera/textAnalyzer.git/index.html",
-    "main.f855e6bc.css.map": "/umeMusfera/textAnalyzer.git/static/css/main.f855e6bc.css.map",
-    "main.0e915f6c.js.map": "/umeMusfera/textAnalyzer.git/static/js/main.0e915f6c.js.map",
-    "453.ad6eb26e.chunk.js.map": "/umeMusfera/textAnalyzer.git/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/textAnalyzer/static/css/main.f855e6bc.css",
+    "main.js": "/textAnalyzer/static/js/main.c550eafc.js",
+    "static/js/453.ad6eb26e.chunk.js": "/textAnalyzer/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/textAnalyzer/index.html",
+    "main.f855e6bc.css.map": "/textAnalyzer/static/css/main.f855e6bc.css.map",
+    "main.c550eafc.js.map": "/textAnalyzer/static/js/main.c550eafc.js.map",
+    "453.ad6eb26e.chunk.js.map": "/textAnalyzer/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0e915f6c.js"
+    "static/js/main.c550eafc.js"
   ]
 }
